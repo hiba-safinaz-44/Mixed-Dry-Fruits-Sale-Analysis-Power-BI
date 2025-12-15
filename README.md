@@ -52,6 +52,8 @@ Import the final data into Excel
 Open the dashboard file
 Use slicers to explore insights
 
+![Sales Dashboard](project_dashboard.png)
+
 👩‍💻 Author
 
 Hiba
