@@ -1,11 +1,11 @@
 # Mixed-Dry-Fruits-Sale-Analysis-Using-SQL-Excel
 
 
-![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue?style=flat-square)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-Dashboard-green?style=flat-square)
-![Data Analysis](https://img.shields.io/badge/Data-Analysis-orange?style=flat-square)
-![GitHub Repo](https://img.shields.io/badge/GitHub-Project-black?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue?logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-Dashboard-green?logo=microsoft-excel&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Project-black?logo=github)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 
 
