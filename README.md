@@ -1,4 +1,4 @@
-# Mixed-Dry-Fruits-Sale-Analysis-PowerBI-Dashboard
+# Middle-East-Dry-Fruits-Sale-Analysis-PowerBI-Dashboard
 
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi&logoColor=black)
@@ -11,7 +11,7 @@
 
 ## 📌 Project Overview
 
-This project presents an **interactive Power BI sales dashboard** for **Mixed Dry Fruits Co.**. The dashboard was built by extracting data from Excel, transforming and cleaning it using **Power Query Editor**, and analyzing it with **DAX measures and AI insights**.
+This project presents an **interactive Power BI sales dashboard** for **Middle East Dry Fruits Co.**. The dashboard was built by extracting data from Excel, transforming and cleaning it using **Power Query Editor**, and analyzing it with **DAX measures and AI insights**.
 
 The objective of this project is to analyze **sales performance, profit, cost, product trends, regional performance, and salesperson efficiency** through dynamic and interactive visualizations.
 
