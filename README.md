@@ -1,4 +1,4 @@
-# Mixed-Dry-Fruits-Sale-Analysis-Using-SQL-Excel
+# Mixed-Dry-Fruits-Sale-Analysis-Using-PowerBI
 
 
 ![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue?logo=mysql&logoColor=white)
